@@ -1,0 +1,6 @@
+__pycache__/
+.gstack/
+
+# keep personal documents out of the public repo
+Omar Anderson - Resume*.pdf
+*.pdf
